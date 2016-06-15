@@ -34,7 +34,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories: demonstration.gif (https://github.com/selinabing/-Android-Bootcamp-Project-1---Review-my-app-to-iOS-Bootcamp-Project-1---Review-my-app/blob/master/demonstration.gif)
+Here's a walkthrough of implemented user stories: http://imgur.com/gOzFvus 
+OR (https://github.com/selinabing/-Android-Bootcamp-Project-1---Review-my-app-to-iOS-Bootcamp-Project-1---Review-my-app/blob/master/demonstration.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
